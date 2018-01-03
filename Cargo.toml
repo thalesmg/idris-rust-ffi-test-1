@@ -1,0 +1,10 @@
+[package]
+name = "ffi"
+version = "0.1.0"
+authors = ["Thales Macedo Garitezi <thalesmg@gmail.com>"]
+
+[dependencies]
+
+[lib]
+name = "ffitest"
+crate-type = ["staticlib"]
